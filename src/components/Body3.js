@@ -15,7 +15,7 @@ export default function Body3() {
               <div className="card-body">
                 <h5 className="card-title">Property Website</h5>
                 <p className="card-text">Below Website provides us property listing in your area. More Content --Area.</p>
-                <a className="a_bottom" href="https://www.republicworld.com/business-news/international-business/tesla-ceo-elon-musk-to-step-down-from-endeavor-board-of-directors-reports-articleshow.html" className="btn btn-primary">Go to website</a>
+                <a  href="https://www.republicworld.com/business-news/international-business/tesla-ceo-elon-musk-to-step-down-from-endeavor-board-of-directors-reports-articleshow.html" className="btn btn-primary">Go to website</a>
               </div>
           </div>
 

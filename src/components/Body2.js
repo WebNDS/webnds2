@@ -1,5 +1,4 @@
 import React from 'react';
-import team_body3 from '../Images/team_body3.jpeg';
 
 export default function Body3() {
   return (

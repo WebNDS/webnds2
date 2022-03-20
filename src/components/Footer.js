@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../Images/logo1.jpeg';
 import  { useState } from 'react';
-import { buttonstyle1,ipstyle, labelstyle, containerstyle, enquirybutton } from './styles/styles.js'
+import { buttonstyle1,ipstyle, labelstyle,  enquirybutton } from './styles/styles.js'
 import emailjs from 'emailjs-com';
 
 export default function Footer() {
